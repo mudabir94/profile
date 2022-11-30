@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mudabir-portfolio/static/css/main.22936bc4.css",
+    "main.js": "/mudabir-portfolio/static/js/main.dffaf877.js",
+    "static/media/pf.png": "/mudabir-portfolio/static/media/pf.37d4b72ee549c958b186.png",
+    "static/media/me-about.jpg": "/mudabir-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/cv.pdf": "/mudabir-portfolio/static/media/cv.e8060e8966e127744a2d.pdf",
+    "static/media/my_pic.jpg": "/mudabir-portfolio/static/media/my_pic.76673a3a4420415c9f58.jpg",
+    "static/media/portfolio2.jpg": "/mudabir-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio3.jpg": "/mudabir-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/mudabir-portfolio/index.html",
+    "main.22936bc4.css.map": "/mudabir-portfolio/static/css/main.22936bc4.css.map",
+    "main.dffaf877.js.map": "/mudabir-portfolio/static/js/main.dffaf877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22936bc4.css",
+    "static/js/main.dffaf877.js"
+  ]
+}
