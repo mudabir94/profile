@@ -31,7 +31,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            LOREM IPSUM
+          I am an enthusiastic software enginer with expertise in
+          data science along with a knack for cloud computing. I have experience
+          in designing, implementing, automating, and optimizing mission-critical
+          deployments onto the AWS stack with considerable experience in machine
+          learning/deep learning applications and product development. I am a
+          collaborative team player who is enthusiastic to learn new skills in the domain of
+          artificial intelligence and information technology.
+
           </p>
           <a href='#content' className='btn btn-primary'>Lets Talk</a>
         </div>
